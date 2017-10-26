@@ -1,0 +1,6 @@
+D:\Visual Studio 2012\Projects\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.exe.config
+D:\Visual Studio 2012\Projects\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.exe
+D:\Visual Studio 2012\Projects\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.pdb
+D:\Visual Studio 2012\Projects\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.exe
+D:\Visual Studio 2012\Projects\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.pdb
